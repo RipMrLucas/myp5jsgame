@@ -1,7 +1,7 @@
 // the random crash for now
 // actual crash code credit the memload thing goes to claude
 function crash() {
-  if (crasha == 7777 && crashtriggered == false) {
+  if (crasha == 3 && crashtriggered == false) {
     beep.play()
     crashtriggered = true
     crashtime = timea }
